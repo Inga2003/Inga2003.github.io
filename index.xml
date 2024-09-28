@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MyBlog</title>
+    <link>https://inga2003.github.io/</link>
+    <description>Recent content on MyBlog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 28 Sep 2024 16:39:09 +0200</lastBuildDate>
+    <atom:link href="https://inga2003.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pirmas puslapis</title>
+      <link>https://inga2003.github.io/posts/pirmaspuslapis/</link>
+      <pubDate>Sat, 28 Sep 2024 16:39:09 +0200</pubDate>
+      <guid>https://inga2003.github.io/posts/pirmaspuslapis/</guid>
+      <description>&lt;h1 id=&#34;sveiki-atvyke&#34;&gt;SVEIKI ATVYKE&lt;/h1&gt;&#xA;&lt;p&gt;Tai yra mano pirmas puslapis&lt;/p&gt;&#xA;&lt;h2 id=&#34;3-laboratorinis&#34;&gt;3 Laboratorinis&lt;/h2&gt;&#xA;&lt;p&gt;vienas du trys&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
